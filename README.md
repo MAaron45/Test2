@@ -7,3 +7,4 @@ Email: ma17700@georgiasouthern.edu
 
 # Description
 - Added method to test placing a valid order
+- Added method to test paying for the order
